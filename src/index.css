@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "poppins";
+  src: url("../public/fonts/Poppins-Regular.ttf");
+}
+
+
+@font-face {
+  font-family: "vollkorn";
+  src: url("../public/fonts/Vollkorn-Regular.ttf");
+}
+
+@font-face {
+  font-family: "josefin";
+  src: url("../public/fonts/JosefinSans-Regular.ttf");
+}
